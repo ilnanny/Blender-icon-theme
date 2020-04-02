@@ -1,0 +1,10 @@
+
+places
+mkdir places
+
+
+ln -s ./../Blender/places/16
+ln -s ./../Blender/places/22
+ln -s ./../Blender/places/64
+ln -s ./../Blender/places/symbolic
+
