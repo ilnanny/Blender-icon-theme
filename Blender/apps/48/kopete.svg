@@ -1,23 +1,78 @@
-<svg width="48" xmlns="http://www.w3.org/2000/svg" height="48">
- <defs>
-  <linearGradient id="a" y1="20.985" x1="23.719" y2="30.733" x2="33.466" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.99522.0977-.0977.99522 385.61 496.52)">
-   <stop/>
-   <stop offset="1" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="b" y1="44" y2="4" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(-1 0 0 1 432.57 499.8)">
-   <stop stop-color="#2f74c8"/>
-   <stop offset="1" stop-color="#4699d7"/>
-  </linearGradient>
-  <linearGradient id="c" y1="522.8" y2="492.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(31 10)">
-   <stop stop-color="#7cbaf8"/>
-   <stop offset="1" stop-color="#f4fcff"/>
-  </linearGradient>
- </defs>
- <g transform="translate(-384.57-499.8)">
-  <path fill="url(#b)" fill-rule="evenodd" d="m428.57 503.8v30h-20l-11 10v-10h-9v-30z"/>
-  <g stroke-linejoin="round" stroke-width="2">
-   <path opacity=".2" fill="url(#a)" d="m413.6 508.31l-1.093.898c0 0 3.067 4.093 3.066 9.09 0 1.043-.142 2.028-.337 2.958l-3.662-4.459h-4.07l-4.929-6h-2.999l-.002 3 16.429 20.01h12.565l.008-8.01-13.218-15.737c-.433-.522-1.757-1.748-1.757-1.748m-11.03 14.486h-3v2.999h.897v.459c-.249.532-.897.542-.897.542l-.002.999 7.05 7.373 1.944-1.369 3.041.002z"/>
-   <path fill="url(#c)" d="m413.6 508.32l-1.093.897c0 0 3.066 4.094 3.062 9.09-.004 5-2.838 9.02-2.838 9.02l.897 1.093c0 0 4.934-3.107 4.939-10.11.005-7-4.967-9.993-4.967-9.993m-11.03 2.481h-2.999l-.003 3h3zm8.997 6.01l-6-.005v3l5.999.005zm-9 5.993h-3v2.999h.999c-.001 1-.999 1-.999 1l-.002.999 1 .002c2 .001 2-1.999 2-1.999z"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="kopete.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview29"
+     showgrid="true"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-52.983051"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#519bd7;fill-opacity:1"
+     d="m 5,10 h 38 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,38 4,37.554 4,37 V 11 c 0,-0.554 0.446,-1 1,-1 z"
+     id="rect19" />
+  <path
+     d="m4 10v35l40-35z"
+     fill="#7e5e8e"
+     fill-rule="evenodd"
+     id="path21"
+     style="fill:#66759a;fill-opacity:1" />
+  <circle
+     cx="35"
+     cy="25"
+     fill="#e9e3ec"
+     r="3"
+     id="circle23"
+     style="fill:#ffffff;fill-opacity:1" />
+  <circle
+     cx="13.142858"
+     cy="25"
+     fill="#e9e3ec"
+     r="3"
+     id="circle25"
+     style="fill:#ffffff;fill-opacity:1" />
 </svg>
