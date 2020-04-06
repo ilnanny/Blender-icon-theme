@@ -1,1 +1,16 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect fill="#515357" height="34" ry="1.717172" transform="rotate(-90)" width="34" x="-41.009861" y="7"/><rect fill="#6f7177" height="34" ry="1.717172" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width="34" x="-17.006973" y="16.948099"/><path d="m28.9984 24.036224a4.9651842 4.9651842 0 0 1 -5.187706 4.722691 4.9651842 4.9651842 0 0 1 -4.732153-5.179075 4.9651842 4.9651842 0 0 1 5.170427-4.741601 4.9651842 4.9651842 0 0 1 4.751032 5.161762" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="preferences-system-session-services.svg" id="svg8" version="1.1" width="48" height="48">
+  <metadata id="metadata14">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs12" />
+  <sodipodi:namedview inkscape:current-layer="svg8" inkscape:cy="29.16" inkscape:cx="24" inkscape:zoom="16.09" showgrid="false" id="namedview10" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <rect style="stroke:#ffffff;stroke-width:0.4;stroke-opacity:0.8141" id="rect2" y="7" x="-41.009861" width="34" transform="rotate(-90)" ry="1.717172" height="34" fill="#515357" />
+  <rect style="stroke:#ffffff;stroke-width:0.4;stroke-opacity:0.8141;fill:#666971" id="rect4" y="16.948099" x="-17.006973" width="34" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" ry="1.717172" height="34" fill="#6f7177" />
+  <path style="stroke:#000000;stroke-width:0.4;stroke-opacity:0.7163" id="path6" fill="#fff" d="m28.9984 24.036224a4.9651842 4.9651842 0 0 1 -5.187706 4.722691 4.9651842 4.9651842 0 0 1 -4.732153-5.179075 4.9651842 4.9651842 0 0 1 5.170427-4.741601 4.9651842 4.9651842 0 0 1 4.751032 5.161762" />
+</svg>

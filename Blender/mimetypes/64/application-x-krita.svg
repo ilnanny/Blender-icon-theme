@@ -1,7 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" version="1.1">
- <path d="M 8,1 C 6.9714,1 6,1.9714 6,3 v 42 c 0,0.97143 1.0286,2 2,2 h 32 c 0.97143,0 2,-1.0286 2,-2 V 14 L 29,1 Z" style="fill:#cd9c6d;fill-opacity:1"/>
- <path style="fill-opacity:0.19599998" d="M 29,12 29.062,12.062 29.219,12 Z m 2,2 11,11 V 14 Z"/>
- <path style="fill:#ffffff;fill-opacity:0.39200003" d="M 29,1 42,14 H 31 c -0.97143,0 -2,-1.0286 -2,-2 z"/>
- <path style="fill:#ffffff;fill-opacity:1;" d="m 17.014994,17.541688 c -1.059052,0 -2.660016,2.086594 -1.823043,2.834459 l 4.36793,3.9029 c 0.165094,-0.329572 0.376808,-0.667094 0.670908,-0.987205 0.320975,-0.347707 0.630149,-0.574856 0.915036,-0.766452 l -3.289559,-4.358532 c -0.344488,-0.368648 -0.405667,-0.62517 -0.841272,-0.62517 z m 8.040363,4.962512 c -0.228063,0 -0.469191,0.0079 -0.697254,0.01411 -0.951126,0.0055 -1.948257,0.171278 -2.831163,0.494485 -0.631431,0.512608 -1.069706,1.077748 -1.487589,1.753654 -0.833923,2.307012 0.159782,6.193086 3.816448,7.095861 4.145043,1.019471 4.366447,-0.08278 6.141796,1.133787 1.784564,1.213427 0.785398,3.052218 1.631608,2.541299 0.43462,-0.258611 1.812612,-2.191929 1.299665,-5.345737 -0.555181,-3.378517 -2.001266,-5.177917 -3.456406,-6.407116 -1.128024,-0.954812 -2.801256,-1.280358 -4.415348,-1.280358 z"/>
+<svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" y1="17" x1="40" y2="31" gradientUnits="userSpaceOnUse" x2="54" gradientTransform="translate(6 8)">
+   <stop stop-color="#060606"/>
+   <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="b" y1="392.36" y2="320.48" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 .84587-34-272.73)">
+   <stop stop-color="#ffffff" stop-opacity="0"/>
+   <stop offset="1" stop-color="#ffffff" stop-opacity=".2"/>
+  </linearGradient>
+  <path color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" id="c" color-interpolation="sRGB" color="#000000" d="m4 61v-50h42l14 14v36h-14z"/>
+ </defs>
+ <use fill="#fc7676" xlink:href="#c"/>
+ <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
+  <rect opacity=".25" x="4" y="60" width="56" height="1"/>
+  <path opacity=".6" fill-rule="evenodd" d="m60 25l-14-14v14z"/>
+ </g>
+ <path opacity=".2" fill="url(#a)" fill-rule="evenodd" d="m46 25l14 14v-14z"/>
+ <rect opacity=".3" color-interpolation-filters="linearRGB" x="4" y="11" color="#000000" image-rendering="auto" color-rendering="auto" width="42" color-interpolation="sRGB" text-rendering="auto" fill="#ffffff" height="1" shape-rendering="auto"/>
+ <path opacity=".6" d="m16.928 20.527c-.061-.005-.106.007-.137.037-.968.968 16.932 17.9 16.932 17.9l4.959 4.719c-.142 4.217 3.768 3.856 4.85 5.748.474.83-.458 1.891-1.322 1.949 1.716.566 3.735-2.696 3.041-4.557-.829-2.221-1.836-2.852-3.414-3.525-.652-.278-1.768-.101-2.428-.342l-4.596-5.08c0 0-16-16.686-17.885-16.85"/>
+ <path opacity=".6" d="m23.365 38.764c.083 1.719 1.17 6.732 6.57 10.386 4.548 3.077 12.867 1.966 12.733.218-1.83-2.273-4.891-.853-4.931-6.295-1.78.013-3.695-.266-3.624.483.299 3.138-4.676.875-6.605-2.326-3.443-5.215-4.143-4.453-4.142-2.466m7.664 2.364c-.295 0-.532.097-.645.291-.224.389.139 1.02.814 1.41.675.39 1.404.391 1.629.002.224-.389-.141-1.02-.816-1.41-.338-.195-.982.002-.982-.293"/>
+ <use fill="url(#b)" xlink:href="#c"/>
 </svg>

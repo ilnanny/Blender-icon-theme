@@ -1,93 +1,228 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 12.7 12.7"
+   width="64"
+   viewBox="0 0 64 64"
+   height="64"
+   id="svg2"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="application-x-theme.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="24.241397"
-     inkscape:cy="10.297199"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1360"
-     inkscape:window-height="718"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     units="px">
-    <inkscape:grid
-       type="xygrid"
-       id="grid815" />
-  </sodipodi:namedview>
   <metadata
-     id="metadata5">
+     id="metadata39">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-284.3)">
-    <rect
-       style="opacity:1;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29205534;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8802817"
-       id="rect817"
-       width="8.7312498"
-       height="11.377084"
-       x="1.8520833"
-       y="285.09375"
-       ry="0.36506954" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none;stroke-width:0.07301383px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 2.38125,285.62292 H 5.0270833 L 2.38125,288.26875 Z"
-       id="path819"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.71428576;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5.8208332,292.2375 v 0.79375 L 5.5562499,293.825 v 0.79375 c 0.5291668,0.26458 1.0583334,0.26458 1.5874999,0 V 293.825 l -0.2645833,-0.79375 v -0.79375 z"
-       id="path818"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4.2333331,291.97292 h 4.2333332 v -0.79375 H 4.2333331 Z"
-       id="path820"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.45714285;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 4.2333331,291.17917 3.9687498,288.79792 H 4.1175779 4.266406 4.4152341 4.5640623 l 0.1984375,0.52916 0.099219,-0.52916 H 5.0105466 5.1593748 5.3082029 5.457031 5.6058591 5.7546873 l 0.066146,0.52916 0.2315104,-0.52916 H 6.2011718 6.35 6.4988281 6.6476562 l 0.2315104,0.52916 0.066146,-0.52916 H 7.0941404 7.2429685 7.3917966 7.5406248 7.6894529 7.838281 7.9871091 8.1359373 8.2847654 l 0.181901,0.52916 0.1157552,-0.52916 h 0.1488282 l -0.2645835,2.38125 z"
-       id="path822"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
-  </g>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview37"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1"
+     inkscape:cx="30.550528"
+     inkscape:cy="41.900067"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4244" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="a"
+       y1="3"
+       y2="61"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1 0 0-1 0 64)">
+      <stop
+         stop-color="#8e44ad"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#9b59b6"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y1="61"
+       y2="47"
+       x2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,64)">
+      <stop
+         stop-color="#d3bdd7"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#e8d9eb"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       y1="17"
+       x1="40"
+       y2="31"
+       x2="54"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#383e51"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#655c6f"
+         stop-opacity="0"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1 0 0-1 0 64)"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="61"
+       y1="3"
+       id="a-3">
+      <stop
+         id="stop7-5"
+         stop-color="#5e6b78" />
+      <stop
+         id="stop9-6"
+         stop-color="#768492"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1 0 0-1 0 64)"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="47"
+       y1="61"
+       id="b-2">
+      <stop
+         id="stop12-9"
+         stop-color="#dedede" />
+      <stop
+         id="stop14-1"
+         stop-color="#fbfbfb"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6251"
+       inkscape:collect="always">
+      <stop
+         id="stop6253"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0" />
+      <stop
+         id="stop6255"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9654"
+       inkscape:collect="always">
+      <stop
+         id="stop9656"
+         offset="0"
+         style="stop-color:#060606;stop-opacity:1" />
+      <stop
+         id="stop9658"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9654"
+       id="linearGradient7912"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2e-6,1.37939e-7)"
+       x1="40"
+       y1="17"
+       x2="54"
+       y2="31" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6251"
+       id="linearGradient7916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-47.999998,-332.3622)"
+       x1="58"
+       y1="392.36221"
+       x2="58"
+       y2="336.36221" />
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#eeeeee;fill-opacity:1"
+     id="path7348"
+     d="m 10.000002,61 0,-57.9999999 29.999997,0 L 54.00001,17 l 0,30 0,14 -14.000011,0 -29.999997,0 z"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     width="30"
+     x="10"
+     y="-3.9999831"
+     height="1"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1"
+     id="rect7350"
+     transform="scale(1,-1)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     width="44"
+     x="10"
+     y="-60.999985"
+     height="1"
+     style="opacity:0.15;fill:#000000;fill-opacity:1"
+     id="rect7352"
+     transform="scale(1,-1)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd"
+     id="path7354"
+     d="M 54.00001,17 39.999999,3.0000001 39.999999,17 Z"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     d="m 39.999999,17 14.000011,14 0,-14 z"
+     id="path7624"
+     style="opacity:0.1;fill:url(#linearGradient7912);fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     style="fill:#000000;fill-rule:nonzero;color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     inkscape:connector-curvature="0"
+     id="path35"
+     d="m 21,22 0,22 22,0 0,-22 z m 11,1 10,0 0,3 -10,0 z m -10,4 5,0 0,16 -5,0 z m 6,0 14,0 0,16 -14,0 z" />
+  <path
+     d="m 10.000002,61 0,-57.9999999 29.999998,0 L 54.00001,17 l 0,30 0,14 L 40,61 10.000002,61 Z"
+     id="path7628"
+     style="fill:url(#linearGradient7916);fill-opacity:1"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
 </svg>

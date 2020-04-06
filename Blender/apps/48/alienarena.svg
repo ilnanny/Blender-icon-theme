@@ -1,1 +1,19 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z" fill="#9dac93" opacity=".99" transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"/><path d="m23.979591 10.738484c-7.325565 0-13.336697 4.799928-13.336697 10.719732 0 2.906804 1.450434 5.54218 3.803693 7.473026l1.391052 3.087171v.473011c0 1.733406 2.577213 3.565197 3.996809 4.965223 1.419584 1.400029 1.681553 2.367857 3.856864 2.367857h.758493c2.175311 0 2.705971-.967828 4.125556-2.367857 1.419587-1.400026 3.728114-3.231817 3.728114-4.965223v-.859259l1.211924-2.560981c2.456831-1.942543 3.980018-4.634335 3.980018-7.612968 0-5.919804-6.011122-10.719732-13.42626-10.719732zm-5.701325 16.261528c1.755461-.07836 4.458234 2.277056 3.896048 4.301884-.610748 1.097864-2.551087 1.298372-3.924035.534589-1.297564-.763706-2.357531-3.842646-.139949-4.819681.05451-.0077.111303-.01425.167936-.01678zm11.721734 0c.116925-.0049.229643.0015.249095.01678 2.307149.977036 1.247174 4.055976-.05038 4.819681-1.372951.763783-3.313297.563275-3.924038-.534589-.544048-1.95951 1.971463-4.228546 3.725323-4.301884z" fill="#fff" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="alienarena.svg" id="svg12" version="1.1" height="64" width="64">
+  <metadata id="metadata18">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs16" />
+  <sodipodi:namedview inkscape:current-layer="g10" inkscape:cy="32" inkscape:cx="32" inkscape:zoom="12.07" showgrid="false" id="namedview14" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <circle id="circle2" style="stroke-width:1.0863;paint-order:stroke fill markers;fill:#e4e9ee" fill="#2c3135" r="29.33" cy="32" cx="32" />
+  <g id="g10" stroke-width=".71429" transform="matrix(1.2,0,0,1.2,3.2,-16)">
+    <path style="fill:#74ca74" id="path4" fill="#5ee05e" d="m8 35.479c0 10.29 8.4961 24.521 16 24.521 7.0642 0 16-14.232 16-24.521 0-10.29-7.1634-15.479-16-15.479s-16 5.1888-16 15.479z" />
+    <path id="path6" fill="#2c3135" d="m28.382 42.382c2.0206-2.0206 4.8396-2.7554 7.4415-2.2055 0.54985 2.6018-0.18496 5.4209-2.2055 7.4414-2.0206 2.0206-4.8396 2.7554-7.4414 2.2055-0.54992-2.6019 0.18495-5.4209 2.2055-7.4414z" />
+    <path id="path8" fill="#2c3135" d="m12.176 40.313c2.6018-0.54222 5.4209 0.18239 7.4414 2.1749 2.0206 1.9925 2.7554 4.7724 2.2055 7.3381-2.6018 0.54222-5.4209-0.18238-7.4415-2.1749-2.0206-1.9926-2.7554-4.7724-2.2055-7.3381z" />
+  </g>
+</svg>
