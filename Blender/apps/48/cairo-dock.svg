@@ -150,7 +150,7 @@
        gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
       <stop
          offset="0"
-         style="stop-color:rgb(74.117649%,74.117649%,74.117649%);stop-opacity:1;"
+         style="stop-color:rgb(74.117489%,74.117489%,74.117489%);stop-opacity:1;"
          id="stop860" />
       <stop
          offset="1"
@@ -167,7 +167,7 @@
        gradientTransform="matrix(0.08461253,0,0,0.08461253,-19.162897,21.468351)">
       <stop
          offset="0"
-         style="stop-color:rgb(74.117649%,74.117649%,74.117649%);stop-opacity:1;"
+         style="stop-color:rgb(74.117489%,74.117489%,74.117489%);stop-opacity:1;"
          id="stop860-6" />
       <stop
          offset="1"
@@ -482,7 +482,7 @@
     <circle
        style="opacity:1;fill:#6b99b0;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4782"
-       cx="23.446428"
+       cx="23.444828"
        cy="1028.804"
        r="22.5" />
     <path

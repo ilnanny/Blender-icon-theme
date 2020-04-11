@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="dialog-info.svg" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" id="svg1072" version="1.1" viewBox="0 0 22 22" height="22" width="22">
+  <defs id="defs1066">
+    <linearGradient id="linearGradient6139-0">
+      <stop style="stop-color:#b0b9be" offset="0" id="stop6141-2" />
+      <stop id="stop6151-0" offset="0.25" style="stop-color:#ffffff" />
+      <stop id="stop6147-1" offset="0.5" style="stop-color:#93a2a7" />
+      <stop style="stop-color:#f9fbfb" offset="0.75" id="stop6149-4" />
+      <stop style="stop-color:#b0b8be" offset="1" id="stop6143-4" />
+    </linearGradient>
+    <linearGradient id="linearGradient3832-0-6-1-1">
+      <stop id="stop3834-6-3-7-1" offset="0" style="stop-color:#e1e1e1" />
+      <stop style="stop-color:#e1e1e1;stop-opacity:0.5882" offset="0.1" id="stop3872-2-4" />
+      <stop id="stop3844-6-2-7-6" offset="0.89999998" style="stop-color:#e1e1e1;stop-opacity:0.5882" />
+      <stop id="stop3836-5-0-2-9" offset="1" style="stop-color:#e1e1e1" />
+    </linearGradient>
+    <linearGradient id="linearGradient4050" inkscape:collect="always">
+      <stop id="stop4052" offset="0" style="stop-color:#ffffff" />
+      <stop id="stop4054" offset="1" style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="linearGradient4160">
+      <stop style="stop-color:#e1e1e1;stop-opacity:0" offset="0" id="stop4170" />
+      <stop id="stop4186" offset="0.03175623" style="stop-color:#e1e1e1;stop-opacity:0.2247" />
+      <stop id="stop4182" offset="0.09425623" style="stop-color:#e1e1e1;stop-opacity:0" />
+      <stop id="stop4180" offset="0.49595019" style="stop-color:#e1e1e1;stop-opacity:0" />
+      <stop id="stop4178" offset="0.90525883" style="stop-color:#e1e1e1;stop-opacity:0" />
+      <stop style="stop-color:#e1e1e1;stop-opacity:0.9882" offset="0.22241152" id="stop4184" />
+      <stop style="stop-color:#e1e1e1;stop-opacity:0" offset="1" id="stop4168" />
+    </linearGradient>
+    <linearGradient id="linearGradient13484">
+      <stop id="stop13486" offset="0" style="stop-color:#842299" />
+      <stop id="stop13488" offset="1" style="stop-color:#0b0d0d;stop-opacity:0" />
+    </linearGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4156-4-1-2">
+      <path style="opacity:0.6;fill:#ffffff" d="M 27.05,-55.7 12.83,-42.37 H 12.89 L 28.55,-20.6 38.78,-31.15 C 38.56,-32.3 27.47,-54.82 27.05,-55.7 Z M 9.647,-39.38 -5.241,-25.32 15.99,-7.806 26.37,-18.38 Z M 41.14,-26.43 31.4,-16.72 40.34,-4.26 48.12,-11.81 Z M -8.702,-22.05 -22.46,-9.07 3.827,4.775 3.888,4.714 3.765,4.652 13.6,-5.401 Z M 29.31,-14.65 19.51,-4.876 31.09,4.683 38.72,-2.718 30.05,-13.73 Z M 49.5,-8.978 42.12,-1.762 48.31,6.78 54.13,0.6433 Z M 17.31,-2.656 7.748,6.842 21.41,14.03 29.34,6.348 Z M 40.62,-0.2818 33.51,6.656 41.87,13.56 47.23,7.89 47.17,7.797 47.08,7.921 Z M 31.89,8.26 24.38,15.6 34.74,21.06 C 36.13,19.74 40.41,14.93 40.59,14.74 Z" id="path4158-0-8-6" inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4050" id="linearGradient3613" y2="138.7" x2="48" y1="20.22" x1="48" />
+    <clipPath id="clipPath3613">
+      <rect style="fill:#ffffff" id="rect3615" y="6" x="6" ry="6" rx="6" height="84" width="84" />
+    </clipPath>
+    <filter id="filter3794" height="1.384" width="1.384" y="-0.192" x="-0.192" style="color-interpolation-filters:sRGB">
+      <feGaussianBlur stdDeviation="5.28" id="feGaussianBlur3722" />
+    </filter>
+    <linearGradient gradientTransform="matrix(0.761,0,0,0.784,119.4,-4.867)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4050" id="linearGradient3746" y2="48.27" x2="81" y1="48.27" x1="15" />
+  </defs>
+  <sodipodi:namedview inkscape:document-rotation="0" inkscape:window-maximized="1" inkscape:window-y="26" inkscape:window-x="0" inkscape:window-height="972" inkscape:window-width="1280" inkscape:lockguides="false" units="px" inkscape:showpageshadow="false" showgrid="false" inkscape:current-layer="g1003" inkscape:document-units="px" inkscape:cy="47.63" inkscape:cx="-24.84" inkscape:zoom="2.475" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#D3D3D3" pagecolor="#ffffff" id="base" />
+  <metadata id="metadata1069">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2017</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere &quot;ilnanny&quot;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Global language</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(0,-1027)" id="layer1" inkscape:groupmode="layer" inkscape:label="Livello 1">
+    <g id="g1273" transform="translate(-0.149,1026)">
+      <g id="g1003" transform="matrix(0.913,0,0,0.8444,20.29,23.98)">
+        <path style="fill:#2b9f4d;stroke-width:0.3281" id="path3620-5" inkscape:connector-curvature="0" d="M -9.98,-24.27 C -15.89,-24.27 -20.66,-20.24 -20.66,-15.28 -20.66,-12.12 -18.71,-9.339 -15.79,-7.734 -15.89,-6.901 -16.41,-4.849 -18.81,-4.152 -15.7,-3.804 -13.64,-5.371 -12.55,-6.545 -11.74,-6.378 -10.86,-6.288 -9.98,-6.288 -4.135,-6.288 0.6354,-10.32 0.6354,-15.28 0.6354,-20.24 -4.135,-24.27 -9.98,-24.27 Z M -9.102,-21.27 C -8.686,-21.27 -8.36,-21.13 -8.072,-20.86 -7.777,-20.58 -7.648,-20.25 -7.648,-19.87 -7.648,-19.48 -7.777,-19.15 -8.072,-18.88 -8.36,-18.61 -8.686,-18.47 -9.102,-18.47 -9.422,-18.47 -9.852,-18.61 -10.11,-18.88 -10.4,-19.15 -10.56,-19.48 -10.56,-19.87 -10.56,-20.25 -10.4,-20.58 -10.11,-20.86 -9.852,-21.13 -9.422,-21.27 -9.102,-21.27 Z M -10.43,-17.22 C -9.852,-17.22 -9.397,-17.06 -9.102,-16.77 -8.784,-16.48 -8.617,-16.1 -8.617,-15.63 -8.617,-15.53 -8.617,-15.37 -8.648,-15.13 -8.686,-14.88 -8.716,-14.66 -8.784,-14.46 L -9.367,-12.24 C -9.428,-12.06 -9.466,-11.87 -9.422,-11.64 -9.556,-11.41 -9.556,-11.24 -9.556,-11.12 -9.556,-10.82 -9.422,-10.62 -9.367,-10.51 -9.238,-10.41 -9.042,-10.35 -8.716,-10.35 -8.557,-10.35 -8.398,-10.38 -8.201,-10.43 -8.034,-10.49 -7.875,-10.54 -7.807,-10.57 L -7.974,-9.892 C -8.458,-9.695 -8.845,-9.544 -9.14,-9.445 -9.428,-9.332 -9.753,-9.286 -10.15,-9.286 -10.73,-9.286 -11.21,-9.43 -11.54,-9.718 -11.87,-10.02 -12.02,-10.4 -12.02,-10.85 -12.02,-11.04 -11.99,-11.22 -11.22,-11.4 -11.22,-11.59 -11.93,-11.8 -11.87,-12.04 L -11.24,-14.25 C -11.21,-14.47 -11.15,-14.66 -11.12,-14.85 -11.09,-15.05 -11.06,-15.22 -11.06,-15.38 -11.06,-15.66 -11.12,-15.85 -11.24,-15.97 -11.34,-16.08 -11.57,-16.14 -11.9,-16.14 -12.02,-16.14 -12.19,-16.11 -12.35,-16.06 -12.55,-16.01 -12.68,-15.22 -12.8,-15.92 L -12.65,-16.6 C -12.22,-16.77 -11.83,-16.91 -11.47,-17.03 -11.12,-17.15 -10.76,-17.22 -10.43,-17.22 Z" />
+      </g>
+    </g>
+  </g>
+</svg>

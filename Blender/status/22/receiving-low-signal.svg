@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="receiving-low-signal.svg" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" id="svg1072" version="1.1" viewBox="0 0 22 22" height="22" width="22">
+  <defs id="defs1066">
+    <linearGradient id="linearGradient857">
+      <stop id="stop853" style="stop-color:#ffffff" offset="0" />
+      <stop id="stop855" style="stop-color:#ffffff;stop-opacity:0.533" offset="1" />
+    </linearGradient>
+    <linearGradient id="linearGradient6139-0">
+      <stop id="stop6141-2" offset="0" style="stop-color:#b2babc" />
+      <stop style="stop-color:#ffffff" offset="0.25" id="stop6151-0" />
+      <stop style="stop-color:#22a1a4" offset="0.5" id="stop6147-1" />
+      <stop id="stop6149-4" offset="0.75" style="stop-color:#fbf9f9" />
+      <stop id="stop6143-4" offset="1" style="stop-color:#b2b9bc" />
+    </linearGradient>
+    <linearGradient id="linearGradient3832-0-6-1-1">
+      <stop style="stop-color:#e1e1e1" offset="0" id="stop3834-6-3-7-1" />
+      <stop id="stop3872-2-4" offset="0.1" style="stop-color:#e1e1e1;stop-opacity:0.5882" />
+      <stop style="stop-color:#e1e1e1;stop-opacity:0.5882" offset="0.89999998" id="stop3844-6-2-7-6" />
+      <stop style="stop-color:#e1e1e1" offset="1" id="stop3836-5-0-2-9" />
+    </linearGradient>
+    <linearGradient id="linearGradient3737">
+      <stop offset="0" style="stop-color:#ffffff" id="stop3739" />
+      <stop offset="1" style="stop-color:#ffffff;stop-opacity:0" id="stop3741" />
+    </linearGradient>
+    <clipPath id="clipPath4156-4-1" clipPathUnits="userSpaceOnUse">
+      <path inkscape:connector-curvature="0" id="path4158-0-8" d="M 27.05,-55.7 12.83,-42.37 H 12.89 L 28.55,-20.6 38.78,-31.15 C 38.56,-32.3 27.47,-54.82 27.05,-55.7 Z M 9.647,-39.38 -5.241,-25.32 15.99,-7.806 26.37,-18.38 Z M 41.14,-26.43 31.4,-16.72 40.34,-4.26 48.12,-11.81 Z M -8.702,-22.05 -22.46,-9.07 3.827,4.775 3.888,4.714 3.765,4.652 13.6,-5.401 Z M 29.31,-14.65 19.51,-4.876 31.09,4.683 38.72,-2.718 30.05,-13.73 Z M 49.5,-8.978 42.12,-1.762 48.31,6.78 54.13,0.6433 Z M 17.31,-2.656 7.748,6.842 21.41,14.03 29.34,6.348 Z M 40.62,-0.2818 33.51,6.656 41.87,13.56 47.23,7.89 47.17,7.797 47.08,7.921 Z M 31.89,8.26 24.38,15.6 34.74,21.06 C 36.13,19.74 40.41,14.93 40.59,14.74 Z" style="opacity:0.6;fill:#ffffff" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview inkscape:document-rotation="0" inkscape:window-maximized="1" inkscape:window-y="20" inkscape:window-x="0" inkscape:window-height="976" inkscape:window-width="1280" inkscape:lockguides="true" units="px" inkscape:showpageshadow="false" showgrid="false" inkscape:current-layer="g1354" inkscape:document-units="px" inkscape:cy="11" inkscape:cx="11.01" inkscape:zoom="30.74" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#D3D3D3" pagecolor="#ffffff" id="base">
+    <sodipodi:guide inkscape:locked="true" id="guide1621" orientation="0,22" position="0,0" />
+    <sodipodi:guide inkscape:locked="true" id="guide1623" orientation="-22,0" position="22.000002,0" />
+    <sodipodi:guide inkscape:locked="true" id="guide1625" orientation="0,-22" position="22.000002,22.000002" />
+    <sodipodi:guide inkscape:locked="true" id="guide1627" orientation="22,0" position="0,22.000002" />
+  </sodipodi:namedview>
+  <metadata id="metadata1069">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2017</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere &quot;ilnanny&quot;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Global language</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(0,-1027)" id="layer1" inkscape:groupmode="layer" inkscape:label="Livello 1">
+    <g id="g2574" transform="translate(-0.149,1026)">
+      <g id="g1354" transform="matrix(0.2179,0,0,0.2179,0.8068,17.68)">
+        <g id="g4831" style="fill:#121212" transform="matrix(1.017,0,0,1.002,25.34,-0.1659)">
+          <path sodipodi:nodetypes="sssssssss" id="rect2909" style="fill:#748490" d="M -12.31,-15.42 H -4.312 C -2.092,-15.42 -0.3123,-13.82 -0.3123,-11.84 V 9.617 C -0.3123,11.6 -2.092,13.2 -4.312,13.2 H -12.31 C -14.53,13.2 -16.31,11.6 -16.31,9.617 V -11.84 C -16.31,-13.82 -14.53,-15.42 -12.31,-15.42 Z" inkscape:connector-curvature="0" />
+        </g>
+        <g id="g1342">
+          <path id="rect2912" style="fill:#dce0e6;stroke:#ebedf0;stroke-opacity:0.9956" d="M 13,-17.89 C 10.78,-17.89 8.922,-16.1 8.922,-13.89 V 10.11 C 8.922,11.91 10.18,13.39 11.81,13.89 10.72,13.44 9.224,12.39 9.224,11.11 V -12.89 C 9.224,-14.59 11.3,-15.92 13,-15.92 H 21 C 22.69,-15.92 24.03,-14.59 24.03,-12.89 V 11.11 C 24.03,12.39 23.27,13.44 22.18,13.89 23.81,13.39 25,11.91 25,10.11 V -13.89 C 25,-16.1 23.21,-17.89 21,-17.89 Z M 33.33,-34.11 C 31.11,-34.11 29.33,-32.33 29.33,-30.11 V 9.889 C 29.33,11.69 30.51,13.16 32.14,13.67 31.05,13.22 30.3,12.16 30.3,10.89 V -29.11 C 30.3,-30.81 31.63,-32.14 33.33,-32.14 H 41.33 C 43.03,-32.14 44.36,-30.81 44.36,-29.11 V 10.89 C 44.36,12.16 43.61,13.22 42.52,13.67 44.15,13.16 45.33,11.69 45.33,9.889 V -30.11 C 45.33,-32.33 43.55,-34.11 41.33,-34.11 Z M 53.66,-50 C 51.45,-50 49.66,-48.22 49.66,-46 V 10 C 49.66,11.8 50.85,13.28 52.48,13.78 51.39,13.33 50.63,12.27 50.63,11 V -45 C 50.63,-46.7 51.97,-48.03 53.66,-48.03 H 61.66 C 63.36,-48.03 64.7,-46.7 64.7,-45 V 11 C 64.7,12.27 63.94,13.33 62.85,13.78 64.48,13.28 65.66,11.8 65.66,10 V -46 C 65.66,-48.22 63.88,-50 61.66,-50 Z M 74,-66 C 71.78,-66 70,-64.22 70,-62 V 10 C 70,11.8 71.18,13.28 72.81,13.78 71.72,13.33 70.97,12.27 70.97,11 V -61 C 70.97,-62.7 72.3,-64.03 74,-64.03 H 82 C 83.7,-64.03 85.03,-62.7 85.03,-61 V 11 C 85.03,12.27 84.28,13.33 83.19,13.78 84.82,13.28 86,11.8 86,10 V -62 C 86,-64.22 84.22,-66 82,-66 Z" inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

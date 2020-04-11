@@ -150,7 +150,7 @@
        gradientTransform="matrix(0.093759,0,0,0.093759,0,20.158175)">
       <stop
          offset="0"
-         style="stop-color:rgb(74.117649%,74.117649%,74.117649%);stop-opacity:1;"
+         style="stop-color:rgb(74.117489%,74.117489%,74.117489%);stop-opacity:1;"
          id="stop860" />
       <stop
          offset="1"
@@ -167,7 +167,7 @@
        gradientTransform="matrix(0.08461253,0,0,0.08461253,-19.162897,21.468351)">
       <stop
          offset="0"
-         style="stop-color:rgb(74.117649%,74.117649%,74.117649%);stop-opacity:1;"
+         style="stop-color:rgb(74.117489%,74.117489%,74.117489%);stop-opacity:1;"
          id="stop860-6" />
       <stop
          offset="1"
@@ -482,7 +482,7 @@
     <circle
        style="opacity:1;fill:#ad7c9f;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4782"
-       cx="23.446428"
+       cx="23.444828"
        cy="1028.804"
        r="22.5" />
     <path
@@ -527,7 +527,7 @@
        id="rect905"
        style="opacity:1;fill:#ffffff;fill-opacity:0.87786257;stroke:none;stroke-width:2.49000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0988593;paint-order:fill markers stroke" />
     <path
-       style="opacity:1;fill:#b78764;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#b78748;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 7.5365256,1012.8941 c 4.0716994,-4.0717 9.6966994,-6.5901 15.9099024,-6.5901 6.213203,0 11.838203,2.5184 15.909903,6.5901 z"
        id="circle907"
        inkscape:connector-curvature="0"

@@ -1,1 +1,21 @@
-applications-system.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="yast-system-group.svg" id="svg14" viewBox="0 0 16.933 16.933" version="1.1" height="48" width="48">
+  <metadata id="metadata20">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs18" />
+  <sodipodi:namedview inkscape:current-layer="g12" inkscape:cy="25.37" inkscape:cx="32" inkscape:zoom="12.07" showgrid="false" id="namedview16" inkscape:window-height="480" inkscape:window-width="480" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <g id="g12" paint-order="stroke markers fill" transform="translate(0 -280.07)">
+    <circle style="fill:#a5c67a;stroke-width:1.0491" id="circle2" fill="#96d16f" r="7.494" cy="288.5" cx="8.467" />
+    <circle style="stroke-width:1.1952" id="circle4" opacity=".15" r="4.111" cy="288.5" cx="8.467" />
+    <g transform="matrix(1.195,0,0,1.195,-1.653,-56.22)" id="g10" fill="#fff">
+      <path inkscape:connector-curvature="0" id="path6" d="M 8.467,285.6 A 2.91,2.91 0 0 0 5.557,288.5 2.91,2.91 0 0 0 8.467,291.4 2.91,2.91 0 0 0 11.38,288.5 2.91,2.91 0 0 0 8.467,285.6 Z M 8.467,286.9 A 1.587,1.587 0 0 1 10.05,288.5 1.587,1.587 0 0 1 8.467,290.1 1.587,1.587 0 0 1 6.879,288.5 1.587,1.587 0 0 1 8.467,286.9 Z" />
+      <path inkscape:connector-curvature="0" id="path8" d="M 7.938,284.4 H 8.996 V 286.3 H 7.938 Z M 7.938,290.8 H 8.996 V 292.6 H 7.938 Z M 12.57,288 V 289.1 H 10.72 V 288 Z M 6.218,288 V 289.1 H 4.366 V 288 Z M 11.74,291.1 10.99,291.8 9.683,290.5 10.43,289.7 Z M 7.25,286.6 6.503,287.3 5.193,286 5.941,285.3 Z M 5.941,291.8 5.193,291.1 6.503,289.7 7.251,290.5 Z M 10.43,287.3 9.683,286.6 10.99,285.3 11.74,286 Z" />
+    </g>
+  </g>
+</svg>

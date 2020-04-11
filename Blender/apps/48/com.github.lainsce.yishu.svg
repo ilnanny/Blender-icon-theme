@@ -1,1 +1,20 @@
-com.github.zren.todolist.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="ktimetracker.svg" id="svg14" version="1.1" width="48" height="48">
+  <metadata id="metadata20">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs18" />
+  <sodipodi:namedview inkscape:current-layer="svg14" inkscape:cy="24" inkscape:cx="24" inkscape:zoom="16.09" showgrid="false" id="namedview16" inkscape:window-height="480" inkscape:window-width="480" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <rect style="stroke-width:1.052" id="rect2" y="1.38" x="1.38" width="45.24" ry="22.62" height="45.24" fill="#7296cd" />
+  <g id="g12" stroke-width="6" stroke="#fff" fill="none">
+    <path id="path4" stroke-opacity=".336788" d="m9 26 8 10 5.5-6.5 5.5-6.5 5.5-6.5 5.5-6.5" />
+    <path id="path6" stroke-opacity=".544041" d="m9 26 8 10 5.5-6.5 5.5-6.5 5.5-6.5" />
+    <path id="path8" stroke-opacity=".751295" d="m9 26 8 10 5.5-6.5 5.5-6.5" />
+    <path id="path10" d="m9 26 8 10 5.5-6.5" />
+  </g>
+</svg>

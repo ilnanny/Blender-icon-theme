@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="48" height="48" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -22,10 +22,10 @@
   </linearGradient>
   <style type="text/css"/>
  </defs>
- <circle cx="-297.6" cy="-338.47" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-297.6" cy="-338.47" r="0" fill="#5e4aa6" stroke-width=".24858"/>
  <circle cx="8.4662" cy="8.6009" r="7.9376" opacity=".2" stroke-width=".14032"/>
  <circle cx="8.4668" cy="8.3321" r="7.9376" fill="url(#linearGradient11422)" style="paint-order:normal"/>
- <g transform="translate(32.763 -10.103)" fill="#5e4aa6" stroke-width=".26458">
+ <g transform="translate(32.763 -10.103)" fill="#5e4aa6" stroke-width=".24858">
   <circle cx="-299.02" cy="-338.77" r="0"/>
   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
   <circle cx="-278.25" cy="-357.69" r="0"/>
@@ -36,11 +36,11 @@
    <circle cx="11.906" cy="287.58" r="1.389" opacity=".25" style="paint-order:stroke markers fill"/>
    <circle cx="11.906" cy="287.58" r="1.389" opacity=".25" style="paint-order:stroke markers fill"/>
    <circle cx="8.819" cy="287.74" r="3.087" style="paint-order:stroke markers fill"/>
-   <circle cx="8.731" cy="288.27" r="2.646" style="paint-order:stroke markers fill"/>
+   <circle cx="8.731" cy="288.27" r="2.486" style="paint-order:stroke markers fill"/>
    <circle cx="5.424" cy="288.97" r="2.469" style="paint-order:stroke markers fill"/>
    <circle cx="5.821" cy="289.33" r="2.117" style="paint-order:stroke markers fill"/>
    <circle cx="12.215" cy="289.59" r="1.852" style="paint-order:stroke markers fill"/>
-   <circle cx="11.642" cy="289.86" r="1.587" style="paint-order:stroke markers fill"/>
+   <circle cx="11.482" cy="289.86" r="1.587" style="paint-order:stroke markers fill"/>
    <path d="m5.424 288.05h6.791v3.395h-6.791z" style="paint-order:stroke markers fill"/>
    <path d="m5.821 288.53h5.821v2.91h-5.821z" style="paint-order:stroke markers fill"/>
   </g>

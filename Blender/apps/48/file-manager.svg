@@ -1,1 +1,32 @@
-system-file-manager.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="system_file_manager.svg" id="svg6" version="1.1" width="48" height="48">
+  <metadata id="metadata12">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs10" />
+  <sodipodi:namedview inkscape:current-layer="g852" inkscape:cy="17.9" inkscape:cx="24" inkscape:zoom="16.11" showgrid="false" id="namedview8" inkscape:window-height="480" inkscape:window-width="480" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <g id="g852" transform="matrix(0.6955,0,0,0.6837,-0.5393,-13.26)">
+    <rect style="fill:#6c8dbe;stroke:#5f5e5c;stroke-width:1.3614;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill" id="rect817" width="63.98" height="55.79" x="3.26" y="26.56" />
+    <rect y="-67.24" x="43.24" height="1.928" width="39.11" id="rect1500" style="fill:#fefbfb;fill-opacity:0.7548;stroke-width:0.0692;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" transform="rotate(90)" />
+    <rect transform="rotate(90)" style="fill:#fefbfb;fill-opacity:0.7548;stroke-width:0.0806;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" id="rect1498" width="39.11" height="2.615" x="43.21" y="-5.875" />
+    <g id="g851" transform="matrix(0.2672,0,0,0.377,-8.229,12.42)" style="opacity:0.852">
+      <path id="rect831" d="M 48,54.25 H 277.5 V 85.09 H 48 Z" style="fill:#f8fafa;stroke-width:0.6703;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" inkscape:connector-curvature="0" />
+      <path sodipodi:nodetypes="cccc" inkscape:connector-curvature="0" id="path1496" d="M 277.5,75.59 244.5,54.25 V 75.59 Z" style="fill:#93a2a5;stroke-width:0.2114;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" />
+    </g>
+    <g transform="matrix(0.9293,0,0,0.9737,2.527,4.016)" style="fill:#6c8dbe;stroke:#577280;stroke-width:1.1617" id="g1484">
+      <path inkscape:connector-curvature="0" d="M 5.056,36.03 H 29.82 L 33.56,40.2 H 5.056 Z M 3.25,40.2 H 67.25 V 80.45 H 3.25 Z" style="stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill" id="rect821" sodipodi:nodetypes="cccccccccc" />
+    </g>
+    <rect y="28.1" x="5.715" height="3.046" width="5.326" id="rect825" style="opacity:0.6981;fill:#ffcc00;fill-opacity:0.9932;stroke-width:0.4768;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill" />
+    <rect style="opacity:0.6981;fill:#ff0084;fill-opacity:0.9932;stroke-width:0.4768;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill" id="rect827" width="5.326" height="3.046" x="13.65" y="28.1" />
+    <rect y="28.1" x="21.59" height="3.046" width="5.326" id="rect829" style="opacity:0.6981;fill:#aad450;fill-opacity:0.9932;stroke-width:0.4768;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill" />
+    <rect y="78.96" x="3.138" height="1.987" width="48.14" id="rect855" style="opacity:0.704;fill:#e5e5e5;fill-opacity:0.9966;stroke-width:0.09;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" />
+    <rect style="opacity:0.597;fill:#e5e5e5;fill-opacity:0.9691;stroke-width:0.0901;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" id="rect853" width="48.29" height="1.987" x="3.138" y="80.46" />
+    <rect y="43.69" x="8.01" height="1.06" width="54.55" id="rect1504" style="opacity:0.704;fill:#fcfdff;stroke-width:0.0606;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" />
+    <rect style="opacity:0.597;fill:#000207;stroke-width:0.0606;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.7961;paint-order:markers stroke fill" id="rect1523" width="54.55" height="1.06" x="8.01" y="45.03" />
+  </g>
+</svg>

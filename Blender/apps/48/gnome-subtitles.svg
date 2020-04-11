@@ -9,12 +9,12 @@
     </rdf:RDF>
   </metadata>
   <defs id="defs49" />
-  <sodipodi:namedview inkscape:current-layer="g43" inkscape:cy="24" inkscape:cx="24" inkscape:zoom="16.09" showgrid="false" id="namedview47" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <sodipodi:namedview inkscape:current-layer="g43" inkscape:cy="24" inkscape:cx="24" inkscape:zoom="16.09" showgrid="false" id="namedview47" inkscape:window-height="480" inkscape:window-width="480" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
   <clipPath id="a">
-    <path id="path2" d="m3.4527029 3h40.0945941c.804798 0 1.452703.6479055 1.452703 1.4527029v8.5455121l-43 .151523v-8.6970351c0-.8047974.6479055-1.4527029 1.4527029-1.4527029z" />
+    <path id="path2" d="m3.4527029 3h40.0945941c.804798 0 1.452703.4879055 1.452703 1.4527029v8.5455121l-43 .151523v-8.6970351c0-.8047974.4879055-1.4527029 1.4527029-1.4527029z" />
   </clipPath>
   <rect style="fill:#9b93ac" id="rect5" y="3" x="2" width="43" ry="1.452703" height="43" fill="#ac939d" />
-  <path style="fill:#373f48" id="path7" fill="#48373e" d="m3.4527029 3h40.0945941c.804798 0 1.452703.6479055 1.452703 1.4527029v8.5455121l-43 .151523v-8.6970351c0-.8047974.6479055-1.4527029 1.4527029-1.4527029z" />
+  <path style="fill:#373f48" id="path7" fill="#48373e" d="m3.4527029 3h40.0945941c.804798 0 1.452703.4879055 1.452703 1.4527029v8.5455121l-43 .151523v-8.6970351c0-.8047974.4879055-1.4527029 1.4527029-1.4527029z" />
   <g id="g21" stroke-width="3" stroke-linecap="square" stroke="#fff" fill="none" clip-path="url(#a)">
     <path id="path9" d="m9 3-2 5 2 5" />
     <path id="path11" d="m16 3-2 5 2 5" />

@@ -1,1 +1,21 @@
-etcher.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="appimagekit-balena-etcher-electron.svg" id="svg16" version="1.1" width="48" height="48">
+  <metadata id="metadata22">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs20" />
+  <sodipodi:namedview inkscape:current-layer="svg16" inkscape:cy="24" inkscape:cx="24" inkscape:zoom="16.09" showgrid="false" id="namedview18" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <path style="fill:#52707f" id="path2" transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)" opacity=".99" fill="#527f66" d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z" />
+  <g id="g10" fill="#fff">
+    <path id="path4" fill-opacity=".507772" d="m12 6c-.831001 0-1.5.669-1.5 1.5v24c0 .831.669 1.5 1.5 1.5h1.5v9h19.5v-9h1.5c.831 0 1.5-.669 1.5-1.5v-24c0-.831-.669-1.5-1.5-1.5zm4.5 30h3v3h-3zm10.5 0h3v3h-3z" />
+    <path id="path6" d="m12 6c-.831001 0-1.5.669-1.5 1.5v24c0 .831.669 1.5 1.5 1.5h1.5 19.5 1.5c.831 0 1.5-.669 1.5-1.5v-24c0-.831-.669-1.5-1.5-1.5z" />
+    <circle id="circle8" stroke-linejoin="bevel" stroke-linecap="round" stroke="#527f66" r="8.392858" cy="13.107143" cx="15.892858" />
+  </g>
+  <path id="path12" stroke-width="1.5" stroke="#527f66" fill="#527f66" d="m15.3 8.7h1.5v9h-1.5z" />
+  <path id="path14" stroke-width="1.5" stroke="#527f66" fill="#527f66" d="m10.8 12.3h10.5v1.5h-10.5z" />
+</svg>

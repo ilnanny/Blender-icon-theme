@@ -106,7 +106,7 @@
       <stop id="stop3878" offset="1" style="stop-color:#000000;stop-opacity:0" />
     </linearGradient>
     <clipPath clipPathUnits="userSpaceOnUse" id="clipPath892">
-      <path style="fill:#ffffff;fill-opacity:0.2552;stroke-width:1.5263;stroke-linecap:round;stroke-linejoin:round" d="M 38.524123,20.232391 V 51.2388 h 3.597154 V 20.232391 Z M 14.125746,21.0025 V 52.010565 H 17.7229 V 21.0025 Z M 5.9924018,21.259203 V 52.267267 H 9.591212 V 21.259203 Z m 24.3983772,1.37129 v 31.006409 h 3.597153 V 22.630493 Z m -20.330877,1.626338 v 31.008065 h 3.597154 V 24.256831 Z m 24.396721,0.08612 v 31.008065 h 3.598809 V 24.342951 Z M 1.9265577,25.798705 V 56.80677 H 5.5237118 V 25.798705 Z m 16.2650323,0.08612 v 31.008064 h 3.597155 V 25.884825 Z m 24.398377,0 v 31.008064 h 3.597154 V 25.884825 Z m -16.265033,2.22752 v 31.006408 h 3.597155 V 28.112345 Z M 22.25909,30.76715 v 31.008065 h 3.597155 V 30.76715 Z" id="path894" inkscape:connector-curvature="0" />
+      <path style="fill:#ffffff;fill-opacity:0.2552;stroke-width:1.5263;stroke-linecap:round;stroke-linejoin:round" d="M 38.524123,20.232391 V 51.2388 h 3.597154 V 20.232391 Z M 14.125746,21.0025 V 52.010565 H 17.7229 V 21.0025 Z M 5.9924018,21.259203 V 52.267267 H 9.591212 V 21.259203 Z m 24.3983772,1.37129 v 31.004809 h 3.597153 V 22.630493 Z m -20.330877,1.626338 v 31.008065 h 3.597154 V 24.256831 Z m 24.396721,0.08612 v 31.008065 h 3.598809 V 24.342951 Z M 1.9265577,25.798705 V 56.80677 H 5.5237118 V 25.798705 Z m 16.2650323,0.08612 v 31.008048 h 3.597155 V 25.884825 Z m 24.398377,0 v 31.008048 h 3.597154 V 25.884825 Z m -16.265033,2.22752 v 31.004808 h 3.597155 V 28.112345 Z M 22.25909,30.76715 v 31.008065 h 3.597155 V 30.76715 Z" id="path894" inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath id="clipPath3881" clipPathUnits="userSpaceOnUse">
       <circle transform="translate(-412,-17)" id="path3883" style="fill:#008dff;fill-rule:evenodd" cx="539.5" cy="152.5" r="103.5" />
@@ -119,7 +119,7 @@
     </linearGradient>
     <linearGradient id="linearGradient4085">
       <stop id="stop4087" style="stop-color:#ffffff" offset="0" />
-      <stop id="stop4089" style="stop-color:#ffffff;stop-opacity:0.2" offset="0.06316455" />
+      <stop id="stop4089" style="stop-color:#ffffff;stop-opacity:0.2" offset="0.06314855" />
       <stop id="stop4091" style="stop-color:#ffffff;stop-opacity:0.2" offset="0.95056331" />
       <stop id="stop4093" style="stop-color:#ffffff;stop-opacity:0.3922" offset="1" />
     </linearGradient>
@@ -137,7 +137,7 @@
     </linearGradient>
     <linearGradient id="linearGradient5060-29-0">
       <stop id="stop5062-9-7" style="stop-color:#000000" offset="0" />
-      <stop id="stop5064-08-2" style="stop-color:#000000;stop-opacity:0" offset="1" />
+      <stop id="stop5048-08-2" style="stop-color:#000000;stop-opacity:0" offset="1" />
     </linearGradient>
     <linearGradient id="linearGradient3851">
       <stop offset="0" style="stop-color:#5b8da7" id="stop3853" />
@@ -147,7 +147,7 @@
       <feGaussianBlur id="feGaussianBlur3176-9" stdDeviation="1.71" />
     </filter>
     <clipPath clipPathUnits="userSpaceOnUse" id="clipPath916">
-      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)" style="opacity:0.99;fill:#126136" inkscape:label="circulo" id="g920">
+      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255488)" style="opacity:0.99;fill:#126136" inkscape:label="circulo" id="g920">
         <path inkscape:connector-curvature="0" id="path918" d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z" style="stroke-width:1.491" />
       </g>
     </clipPath>
@@ -167,16 +167,16 @@
       <circle transform="matrix(0.88586957,0,0,0.88586957,-24.010886,495.98978)" id="path3849" style="fill:url(#linearGradient3843);fill-rule:evenodd" cx="322.4407" cy="342.29437" r="260.2153" />
     </clipPath>
     <clipPath id="clipPath3344" clipPathUnits="userSpaceOnUse">
-      <circle style="fill:#0eb474;fill-rule:evenodd" id="path3346" transform="matrix(0.09964174,0,0,0.09964174,-8.1283951,-10.106867)" cx="322.4407" cy="342.29437" r="260.2153" />
+      <circle style="fill:#0eb474;fill-rule:evenodd" id="path3346" transform="matrix(0.09948174,0,0,0.09948174,-8.1283951,-10.106867)" cx="322.4407" cy="342.29437" r="260.2153" />
     </clipPath>
     <linearGradient gradientUnits="userSpaceOnUse" y2="342.29437" x2="582.65601" y1="342.29437" x1="62.225403" id="linearGradient4124" xlink:href="#linearGradient4118" inkscape:collect="always" />
     <clipPath clipPathUnits="userSpaceOnUse" id="clipPath932">
-      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)" style="opacity:0.99;fill:#32b6a1" inkscape:label="circulo" id="g936">
+      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255488)" style="opacity:0.99;fill:#32b6a1" inkscape:label="circulo" id="g936">
         <path inkscape:connector-curvature="0" id="path934" d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z" style="stroke-width:1.491" />
       </g>
     </clipPath>
     <clipPath clipPathUnits="userSpaceOnUse" id="clipPath942">
-      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)" style="opacity:0.99;fill:#32b6a1" inkscape:label="circulo" id="g946">
+      <g transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255488)" style="opacity:0.99;fill:#32b6a1" inkscape:label="circulo" id="g946">
         <path inkscape:connector-curvature="0" id="path944" d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z" style="stroke-width:1.491" />
       </g>
     </clipPath>
@@ -232,13 +232,13 @@
     </rdf:RDF>
   </metadata>
   <g transform="translate(0,-1004.3622)" id="layer1" inkscape:groupmode="layer" inkscape:label="Capa 1">
-    <circle r="22.42" cy="1028" cx="24" id="path1007" style="fill:#5c7692;stroke-width:0.307;stroke-opacity:0.8464" />
-    <path inkscape:connector-curvature="0" d="M 1.621,1029 A 22.42,22.42 0 0 0 24,1050 22.42,22.42 0 0 0 46.38,1029 Z" style="fill:#7da2c2;stroke-width:0.307;stroke-opacity:0.8464" id="circle1022" />
+    <circle r="22.42" cy="1028" cx="24" id="path1007" style="fill:#5c7692;stroke-width:0.307;stroke-opacity:0.8448" />
+    <path inkscape:connector-curvature="0" d="M 1.621,1029 A 22.42,22.42 0 0 0 24,1050 22.42,22.42 0 0 0 46.38,1029 Z" style="fill:#7da2c2;stroke-width:0.307;stroke-opacity:0.8448" id="circle1022" />
     <path inkscape:connector-curvature="0" id="rect4328" d="m 16.550354,1034.3667 0,3 13,0 0,-3 -13,0 z m 0.01953,6.0313 0,3 13,0 0,-3 -13,0 z" style="fill:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
     <g transform="translate(0.4018)" id="g1005">
       <path style="fill:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" d="M 12.14,1014 V 1018 H 8.143 V 1021 H 12.14 V 1025 H 15.14 V 1021 H 19.14 V 1018 H 15.14 V 1014 Z" id="rect4337" inkscape:connector-curvature="0" />
       <path inkscape:connector-curvature="0" id="path4342" d="M 28.05,1018 V 1021 H 39.05 V 1018 Z" style="fill:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" sodipodi:nodetypes="ccccc" />
     </g>
-    <rect ry="0" y="1007" x="23.66" height="22.21" width="0.6755" id="rect1001" style="fill:#cdd6de;fill-opacity:0.5816;stroke-width:0.1519;stroke-opacity:0.8464" />
+    <rect ry="0" y="1007" x="23.66" height="22.21" width="0.6755" id="rect1001" style="fill:#cdd6de;fill-opacity:0.5816;stroke-width:0.1519;stroke-opacity:0.8448" />
   </g>
 </svg>

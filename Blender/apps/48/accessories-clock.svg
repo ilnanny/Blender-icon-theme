@@ -1,1 +1,26 @@
-preferences-system-time.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" sodipodi:docname="gworldclock.svg" id="svg26" viewBox="0 0 16.933 16.933" version="1.1" height="48" width="48">
+  <metadata id="metadata32">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs30" />
+  <sodipodi:namedview inkscape:current-layer="g24" inkscape:cy="32" inkscape:cx="32" inkscape:zoom="12.07" showgrid="false" id="namedview28" inkscape:window-height="480" inkscape:window-width="480" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" inkscape:document-rotation="0" bordercolor="#666666" pagecolor="#ffffff" />
+  <g id="g24" transform="translate(0 -280.07)">
+    <circle id="circle2" stroke-width=".24858" fill="#5e4aa6" r="0" cy="-48.312" cx="-330.35" />
+    <circle style="fill:#e3e6e9" id="circle6" stroke-width=".14032" fill="#fafafa" r="7.9375" cy="288.53" cx="8.4935" />
+    <path id="path8" opacity=".2" fill-rule="evenodd" d="m13.098 289.27a0.29477 0.23607 0 0 0-0.2943-0.23606 0.29477 0.23607 0 0 0-4.63e-4 0h-4.6569a0.29477 0.23607 0 0 0-4.62e-4 0 0.29477 0.23607 0 0 0-0.2943 0.23606 0.29477 0.23607 0 0 0 0.2943 0.23607 0.29477 0.23607 0 0 0 4.62e-4 0h4.6569a0.29477 0.23607 0 0 0 4.63e-4 0 0.29477 0.23607 0 0 0 0.2943-0.23607z" />
+    <path id="path10" opacity=".3" fill-rule="evenodd" fill="#ff3232" d="m31.477 28.027c-1.3807 0-2.5 1.1193-2.5 2.5 7.07e-4 0.06521 4e-3 0.13036 0.0098 0.19531-1.5306 2.8578-13.854 13.291-13.854 13.291l0.86715 0.87305s12.121-10.571 15.25-11.869c0.07533 0.0067 0.15093 0.0099 0.22656 0.0098 1.3807 0 2.5-1.1193 2.5-2.5s-1.1193-2.5-2.5-2.5z" transform="matrix(.25966 0 0 .25695 .10473 281.3)" />
+    <g id="g20" fill-rule="evenodd" transform="translate(-.053508)">
+      <path id="path12" d="m8.1326 284.13a0.29398 0.29733 0 0 0-0.29398 0.29686 0.29398 0.29733 0 0 0 0 4.7e-4v4.6974a0.29398 0.29733 0 0 0 0 4.7e-4 0.29398 0.29733 0 0 0 0.29398 0.29686 0.29398 0.29733 0 0 0 0.29398-0.29686 0.29398 0.29733 0 0 0 0-4.7e-4v-4.6974a0.29398 0.29733 0 0 0 0-4.7e-4 0.29398 0.29733 0 0 0-0.29398-0.29686z" />
+      <path id="path14" d="m13.16 289.16a0.29731 0.29396 0 0 0-0.29684-0.29395 0.29731 0.29396 0 0 0-4.67e-4 0h-4.697a0.29731 0.29396 0 0 0-4.66e-4 0 0.29731 0.29396 0 0 0-0.29684 0.29395 0.29731 0.29396 0 0 0 0.29684 0.29395 0.29731 0.29396 0 0 0 4.66e-4 0h4.697a0.29731 0.29396 0 0 0 4.67e-4 0 0.29731 0.29396 0 0 0 0.29684-0.29395z" />
+      <path id="path16" fill="#ea4348" d="m8.2587 288.37c-0.36531 0-0.66146 0.29614-0.66146 0.66146 1.87e-4 0.0173 0.0011 0.0345 0.0026 0.0517-0.40497 0.75612-3.6654 3.5166-3.6654 3.5166l0.22943 0.231s3.2071-2.797 4.0349-3.1404c0.01993 2e-3 0.03993 3e-3 0.05995 3e-3 0.36531 0 0.66146-0.29614 0.66146-0.66145 0-0.36532-0.29614-0.66146-0.66146-0.66146z" />
+      <circle id="circle18" fill="#fff" r=".39687" cy="289.03" cx="8.2489" />
+    </g>
+    <ellipse id="ellipse22" stroke-width=".24858" fill-rule="evenodd" fill="#5e4aa6" cy="286.51" cx="-39.434" />
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="notification-network-disconnected.svg" inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)" id="svg1072" version="1.1" viewBox="0 0 22 22" height="22" width="22">
+  <defs id="defs1066">
+    <linearGradient id="linearGradient6139-0">
+      <stop id="stop6141-2" offset="0" style="stop-color:#b2babc" />
+      <stop style="stop-color:#ffffff" offset="0.25" id="stop6151-0" />
+      <stop style="stop-color:#22a1a4" offset="0.5" id="stop6147-1" />
+      <stop id="stop6149-4" offset="0.75" style="stop-color:#fbf9f9" />
+      <stop id="stop6143-4" offset="1" style="stop-color:#b2b9bc" />
+    </linearGradient>
+    <linearGradient id="linearGradient3832-0-6-1-1">
+      <stop style="stop-color:#e1e1e1" offset="0" id="stop3834-6-3-7-1" />
+      <stop id="stop3872-2-4" offset="0.1" style="stop-color:#e1e1e1;stop-opacity:0.5882" />
+      <stop style="stop-color:#e1e1e1;stop-opacity:0.5882" offset="0.89999998" id="stop3844-6-2-7-6" />
+      <stop style="stop-color:#e1e1e1" offset="1" id="stop3836-5-0-2-9" />
+    </linearGradient>
+    <linearGradient id="linearGradient3737">
+      <stop offset="0" style="stop-color:#ffffff" id="stop3739" />
+      <stop offset="1" style="stop-color:#ffffff;stop-opacity:0" id="stop3741" />
+    </linearGradient>
+    <clipPath id="clipPath4156-4-1" clipPathUnits="userSpaceOnUse">
+      <path inkscape:connector-curvature="0" id="path4158-0-8" d="M 27.05,-55.7 12.83,-42.37 H 12.89 L 28.55,-20.6 38.78,-31.15 C 38.56,-32.3 27.47,-54.82 27.05,-55.7 Z M 9.647,-39.38 -5.241,-25.32 15.99,-7.806 26.37,-18.38 Z M 41.14,-26.43 31.4,-16.72 40.34,-4.26 48.12,-11.81 Z M -8.702,-22.05 -22.46,-9.07 3.827,4.775 3.888,4.714 3.765,4.652 13.6,-5.401 Z M 29.31,-14.65 19.51,-4.876 31.09,4.683 38.72,-2.718 30.05,-13.73 Z M 49.5,-8.978 42.12,-1.762 48.31,6.78 54.13,0.6433 Z M 17.31,-2.656 7.748,6.842 21.41,14.03 29.34,6.348 Z M 40.62,-0.2818 33.51,6.656 41.87,13.56 47.23,7.89 47.17,7.797 47.08,7.921 Z M 31.89,8.26 24.38,15.6 34.74,21.06 C 36.13,19.74 40.41,14.93 40.59,14.74 Z" style="opacity:0.6;fill:#ffffff" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview inkscape:document-rotation="0" inkscape:window-maximized="1" inkscape:window-y="19" inkscape:window-x="0" inkscape:window-height="947" inkscape:window-width="1280" inkscape:lockguides="true" units="px" inkscape:showpageshadow="false" showgrid="false" inkscape:current-layer="g2574" inkscape:document-units="px" inkscape:cy="9.091" inkscape:cx="11.57" inkscape:zoom="28.21" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#D3D3D3" pagecolor="#ffffff" id="base">
+    <sodipodi:guide inkscape:locked="true" id="guide1621" orientation="0,22" position="0,0" />
+    <sodipodi:guide inkscape:locked="true" id="guide1623" orientation="-22,0" position="22.000002,0" />
+    <sodipodi:guide inkscape:locked="true" id="guide1625" orientation="0,-22" position="22.000002,22.000002" />
+    <sodipodi:guide inkscape:locked="true" id="guide1627" orientation="22,0" position="0,22.000002" />
+  </sodipodi:namedview>
+  <metadata id="metadata1069">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2017</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere &quot;ilnanny&quot;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Global language</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(0,-1027)" id="layer1" inkscape:groupmode="layer" inkscape:label="Livello 1">
+    <g id="g2574" transform="translate(-0.149,1026)">
+      <g transform="matrix(0.2664,0,0,0.2664,41.66,-3.259)" id="g871">
+        <path inkscape:connector-curvature="0" d="M -146.9,66.41 H -139.6 C -137.6,66.41 -136,67.76 -136,69.43 V 87.5 C -136,89.17 -137.6,90.51 -139.6,90.51 H -146.9 C -148.9,90.51 -150.5,89.17 -150.5,87.5 V 69.43 C -150.5,67.76 -148.9,66.41 -146.9,66.41 Z M -128.7,50.09 H -121.4 C -119.4,50.09 -117.7,51.6 -117.7,53.46 V 87.14 C -117.7,89.01 -119.4,90.51 -121.4,90.51 H -128.7 C -130.7,90.51 -132.3,89.01 -132.3,87.14 V 53.46 C -132.3,51.6 -130.7,50.09 -128.7,50.09 Z M -110.4,36.62 H -103.1 C -101.1,36.62 -99.5,38.13 -99.5,39.99 V 87.14 C -99.5,89.01 -101.1,90.51 -103.1,90.51 H -110.4 C -112.5,90.51 -114.1,89.01 -114.1,87.14 V 39.99 C -114.1,38.13 -112.5,36.62 -110.4,36.62 Z M -92.21,23.15 H -84.92 C -82.9,23.15 -81.27,24.65 -81.27,26.52 V 87.14 C -81.27,89.01 -82.9,90.51 -84.92,90.51 H -92.21 C -94.23,90.51 -95.86,89.01 -95.86,87.14 V 26.52 C -95.86,24.65 -94.23,23.15 -92.21,23.15 Z" style="fill:#c1c1c1;fill-opacity:0.1561;stroke-width:0.876" id="rect2909" />
+        <path inkscape:connector-curvature="0" d="M -146.9,64.59 C -148.9,64.59 -150.5,66.19 -150.5,68.18 V 89.68 C -150.5,91.29 -149.4,92.61 -148,93.07 -148.9,92.66 -149.6,91.72 -149.6,90.57 V 69.07 C -149.6,67.55 -148.4,66.36 -146.9,66.36 H -139.7 C -138.2,66.36 -137,67.55 -137,69.07 V 90.57 C -137,91.72 -137.7,92.66 -138.7,93.07 -137.2,92.61 -136.2,91.29 -136.2,89.68 V 68.18 C -136.2,66.19 -137.7,64.59 -139.7,64.59 Z M -128.7,50.06 C -130.7,50.06 -132.3,51.66 -132.3,53.64 V 89.48 C -132.3,91.09 -131.2,92.41 -129.7,92.87 -130.7,92.46 -131.4,91.52 -131.4,90.37 V 54.54 C -131.4,53.02 -130.2,51.82 -128.7,51.82 H -121.5 C -120,51.82 -118.8,53.02 -118.8,54.54 V 90.37 C -118.8,91.52 -119.5,92.46 -120.5,92.87 -119,92.41 -117.9,91.09 -117.9,89.48 V 53.64 C -117.9,51.66 -119.5,50.06 -121.5,50.06 Z M -110.5,35.83 C -112.5,35.83 -114.1,37.42 -114.1,39.41 V 89.58 C -114.1,91.19 -113,92.51 -111.5,92.97 -112.5,92.56 -113.2,91.61 -113.2,90.47 V 40.31 C -113.2,38.79 -112,37.59 -110.5,37.59 H -103.3 C -101.8,37.59 -100.6,38.79 -100.6,40.31 V 90.47 C -100.6,91.61 -101.3,92.56 -102.2,92.97 -100.8,92.51 -99.72,91.19 -99.72,89.58 V 39.41 C -99.72,37.42 -101.3,35.83 -103.3,35.83 Z M -92.25,21.49 C -94.23,21.49 -95.83,23.09 -95.83,25.08 V 89.58 C -95.83,91.19 -94.77,92.51 -93.31,92.97 -94.29,92.56 -94.22,91.61 -94.22,90.47 V 25.97 C -94.22,24.45 -93.77,23.26 -92.25,23.26 H -85.08 C -83.56,23.26 -82.37,24.45 -82.37,25.97 V 90.47 C -82.37,91.61 -83.04,92.56 -84.02,92.97 -82.56,92.51 -81.5,91.19 -81.5,89.58 V 25.08 C -81.5,23.09 -83.1,21.49 -85.08,21.49 Z" style="fill:#525e70;stroke:#656565;stroke-width:0.5" id="rect2912" />
+        <path d="M -84.02,91.97 -92.28,83.71 -100.5,91.97 -106,86.5 -97.75,78.24 -106,69.22 -100.5,64.46 -92.25,72.75 -83.99,64.49 -78.53,69.22 -86.79,78.22 -78.53,86.48 Z" style="-inkscape-font-specification:'Audiowide Bold';fill:#b50000;stroke:#D3D3D3;stroke-width:0.7079;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.9934;paint-order:fill markers stroke" id="path1764" inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
